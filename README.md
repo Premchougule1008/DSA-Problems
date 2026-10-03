@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Premchougule18/DSA-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Premchougule18/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0414-third-maximum-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Premchougule18/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Premchougule18/DSA-Problems/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Premchougule18/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
