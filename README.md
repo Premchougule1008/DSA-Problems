@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Premchougule18/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Premchougule18/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/Premchougule18/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Premchougule18/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Premchougule18/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Premchougule18/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Premchougule18/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
