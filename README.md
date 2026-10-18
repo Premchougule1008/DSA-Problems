@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Premchougule18/DSA-Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Premchougule18/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Premchougule18/DSA-Problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Premchougule18/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Premchougule18/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Premchougule18/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Premchougule18/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Premchougule18/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Premchougule18/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Premchougule18/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Premchougule18/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Premchougule18/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Premchougule18/DSA-Problems/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Premchougule18/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
