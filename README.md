@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Premchougule18/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Premchougule18/DSA-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Premchougule18/DSA-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Premchougule18/DSA-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Premchougule18/DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Premchougule18/DSA-Problems/tree/master/0342-power-of-four) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Premchougule18/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Premchougule18/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Premchougule18/DSA-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Premchougule18/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Premchougule18/DSA-Problems/tree/master/0344-reverse-string) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Premchougule18/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Premchougule18/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Premchougule18/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Premchougule18/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Premchougule18/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Premchougule18/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
