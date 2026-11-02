@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Premchougule18/DSA-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Premchougule18/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Premchougule18/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Premchougule18/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Premchougule18/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Premchougule18/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Premchougule18/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Premchougule18/DSA-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Premchougule18/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Premchougule18/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Premchougule18/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Premchougule18/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Premchougule18/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Premchougule18/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Premchougule18/DSA-Problems/tree/master/0206-reverse-linked-list) |
 ## Prefix Sum
 |  |
@@ -121,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Premchougule18/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Premchougule18/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
